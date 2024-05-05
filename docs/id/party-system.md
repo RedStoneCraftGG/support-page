@@ -62,4 +62,5 @@ Daftar maksimal pemain dalam satu permainan:
 | SkyWars         | 12   | 24      | N/A    |
 | TheBridge       | 2    | 4       | N/A    |
 | Duels           | 2    | 4       | N/A    |
+
 :::
