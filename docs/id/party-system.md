@@ -48,10 +48,10 @@ Adapun jumlah maksimum anggota Party setiap permainan yaitu:
 
 | Jenis Permainan | Solo | Doubles | Squads |
 |-----------------|------|---------|--------|
-| BedWars         | 4    | 4       | 4      |
-| SkyWars         | 4    | 4       | N/A    |
-| TheBridge       | 2    | 4       | N/A    |
-| Duels           | 2    | 4       | N/A    |
+| BedWars         | 4    | 2       | 4      |
+| SkyWars         | 4    | 2       | N/A    |
+| TheBridge       | 2    | 2       | N/A    |
+| Duels           | 2    | 2       | N/A    |
 
 ::: details
 Daftar maksimal pemain dalam satu permainan:
