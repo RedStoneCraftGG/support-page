@@ -21,5 +21,8 @@ hero:
     - theme: alt
       text: Pekerjaan
       link: /id/jobs
+    - theme: alt
+      text: Toko Server
+      link: /id/server-store
 ---
 
