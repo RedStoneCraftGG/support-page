@@ -21,8 +21,5 @@ hero:
     - theme: alt
       text: Pekerjaan
       link: /id/jobs
-    - theme: alt
-      text: Peraturan Server
-      link: /id/rules
 ---
 

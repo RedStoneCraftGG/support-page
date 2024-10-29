@@ -21,8 +21,5 @@ hero:
     - theme: alt
       text: Jobs
       link: /en/jobs
-    - theme: alt
-      text: Server Rules
-      link: /en/rules
 ---
 
