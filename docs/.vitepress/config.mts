@@ -104,6 +104,13 @@ const sidebarItems: SidebarItemWrapper[] = [
           en: "Privacy Policy"
         },
         link: "/privacy-policy"
+      },
+      {
+        text: {
+          id: "Peraturan Server",
+          en: "Server Rules"
+        },
+        link: "/rules"
       }
     ]
   },
